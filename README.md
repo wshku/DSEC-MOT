@@ -58,7 +58,7 @@ The format of the annotation is as follows:
 | 5        | Trucks      |
 | 6        | Trains      |
 
-Example Annotation:  
+Example annotation:  
 `[54828357559, 10, 178, 222, 100, 70, 0]`
 
 This example annotation represents a car appearing at the timestamp 54828357559 microsecond, with a unique track ID of 10. The bounding box for this object has its top-left corner at coordinates (178, 222) and dimensions of width 100 and height 70.
