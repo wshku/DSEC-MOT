@@ -8,7 +8,7 @@ Welcome to the new challenging event-based multi-object tracking dataset (DSEC-M
 </div>
 
 <div align=center>
-<img src="https://github.com/wshku/DSEC-MOT/blob/main/figures/zurich_city_04_b.gif" width="240">  <img src="https://github.com/wshku/DSEC-MOT/blob/main/figures/zurich_city_09_d.gif" width="240">  <img src="https://github.com/wshku/DSEC-MOT/blob/main/figures/interlaken_00_e.gif" width="240">
+<img src="https://github.com/wshku/DSEC-MOT/blob/main/figures/zurich_city_04_b.gif" width="240">  <img src="https://github.com/wshku/DSEC-MOT/blob/main/figures/zurich_city_09_d.gif" width="240">  <img src="https://github.com/wshku/DSEC-MOT/blob/main/figures/zurich_city_01_e_2.gif" width="240">
 </div>
 
 ## Citation
