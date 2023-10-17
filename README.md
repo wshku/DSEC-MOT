@@ -34,7 +34,7 @@ DSEC-MOT contains:
 
 ## Download
 [DSEC event files](https://dsec.ifi.uzh.ch/dsec-datasets/download/)  
-[Annotation files](https://drive.google.com/drive/folders/1falPNW7flsWYknmknCifD0pAsc-KXudR?usp=sharing) (1.0 MB)
+[Annotation files](https://drive.google.com/drive/folders/1BMzf-mAq1-pwtCWc7zw3KoYYF4igZXAj?usp=sharing) (1.0 MB)
 
 ## Annotation Format
 The annotation data for the DSEC-MOT dataset is stored in txt files, with each annotation occupying a single line. 
