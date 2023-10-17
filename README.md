@@ -48,15 +48,15 @@ The format of the annotation is as follows:
 - `box width` and `box height` specify the dimensions of the bounding box surrounding the object
 - `class ID` indicates the class of the object being tracked
 
-| Label | Class ID    |
-|:-----:|:-----------:|
-| 0     | Car         |
-| 1     | Pedestrians |
-| 2     | Bicycles    |
-| 3     | Motorcycles |
-| 4     | Buses       |
-| 5     | Trucks      |
-| 6     | Trains      |
+| Class ID |    Label    |
+|:--------:|:-----------:|
+| 0        | Car         |
+| 1        | Pedestrians |
+| 2        | Bicycles    |
+| 3        | Motorcycles |
+| 4        | Buses       |
+| 5        | Trucks      |
+| 6        | Trains      |
 
 Example Annotation:  
 `[54828357559, 10, 178, 222, 100, 70, 0]`
