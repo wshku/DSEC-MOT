@@ -64,5 +64,5 @@ Example Annotation:
 This example annotation represents a car appearing at the timestamp 54828357559 microsecond, with a unique track ID of 10. The bounding box for this object has its top-left corner at coordinates (178, 222) and dimensions of width 100 and height 70.
 
 ---
-We hope our DSEC-MOT dataset contributes to advancing research in event-based multi-object tracking. If you have any questions or issues, feel free to reach out to us or open an issue in this GitHub repository. Happy tracking!
+We hope our DSEC-MOT dataset contributes to advancing research in event-based multi-object tracking. If you have any questions or issues, feel free to reach out to us or open an issue in this GitHub repository. Enjoy tracking!
 
