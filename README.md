@@ -1,7 +1,7 @@
 # DSEC-MOT
 
 ## Introduction
-Welcome to the new challenging event-based multi-object tracking dataset (DSEC-MOT) repository! Our goal is to provide a challenging and diverse event-based MOT dataset with various real-world scenarios to facilitate the objective and comphrehensive evaluation of event-based multi-object tracking algorithms. This dataset, built upon [DSEC](https://dsec.ifi.uzh.ch/), contains a variety of traffic entities and complex scenarios, aiming to address the current lack of event-based MOT datasets.
+Welcome to the new challenging event-based multi-object tracking dataset (DSEC-MOT) repository. Our goal is to provide a challenging and diverse event-based MOT dataset with various real-world scenarios to facilitate the objective and comphrehensive evaluation of event-based multi-object tracking algorithms. This dataset, built upon [DSEC](https://dsec.ifi.uzh.ch/), contains a variety of traffic entities and complex scenarios, aiming to address the current lack of event-based MOT datasets.
 
 <div align=center>
 <img src="https://github.com/wshku/DSEC-MOT/blob/main/figures/zurich_city_00_b.gif" width="240">  <img src="https://github.com/wshku/DSEC-MOT/blob/main/figures/zurich_city_01_d.gif" width="240">  <img src="https://github.com/wshku/DSEC-MOT/blob/main/figures/zurich_city_01_e.gif" width="240">
